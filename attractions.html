@@ -8,7 +8,7 @@
             <!-- Bootstrap CSS -->
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
              crossorigin="anonymous">
-<link href="index.css" rel="stylesheet"> 
+<link href="css.css" rel="stylesheet"> 
 
         <title>Attractions at Everventurez </title>
 
@@ -17,79 +17,145 @@
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="index.html">EverVenturez</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+  <a class="navbar-brand" href="index.html">EverVenturez</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.html">About</a>
+      </li>
+      <li class="nav-item">
+              <a class="nav-link" href="dining.html">Dining</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-                    <a class="nav-link" href="dining.html">Dining</a>
-                  </li>
-                  <li class="nav-item active">
-                        <a class="nav-link" href="attractions.html">Attractions</a>
-            <li>
-                <!--I'm gonna make a tickets thing here-->
+            <li class="nav-item active">
+                  <a class="nav-link" href="attractions.html">Attractions</a>
+      <li>
+          <!--I'm gonna make a tickets thing here-->
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-        Launch demo modal
-      </button>
-      
-      <!-- Modal -->
-      <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">How many tickets would you like to buy?</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <!--modal body between here...-->
-              1 ticket costs 20$. Everyone pays the same amount, except for children 3 and under, who can attend for free.
-              <form>
-                    <div class="form-group">
-                      <input type="number" class="form-control" id="that" aria-describedby="emailHelp" placeholder="Quantity">
-                    </div>
-                  </form>
-                  The cost will be $<span class="price"></span>
-              <!--...and here-->
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-              <a class="btn btn-primary" href="noRealBuy.html" role="button">Proceed to Purchase</a>
-            </div>
-          </div>
-        </div>
+  Buy Tickets!
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="color: black;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">How many tickets could you like to buy?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-            </li>
-          </ul>
-          <!-- <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit"> Tickets </button>
-          </form> -->  <!--  Gonna make this a Tickets button instead of a search, gonna wait since it messed up before -->
-        </div>
-      </nav>
+      <div class="modal-body">
+        <!--modal body between here...-->
+        1 ticket costs 20$. Everyone pays the same amount, except for children 3 and under, who can attend for free.
+        <form>
+              <div class="form-group">
+                <input type="number" class="form-control" id="that" aria-describedby="emailHelp" placeholder="Quantity">
+              </div>
+            </form>
+            The cost will be $<span class="price"></span>
+        <!--...and here-->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <a class="btn btn-primary" href="noRealBuy.html" role="button">Proceed to Purchase</a>
+      </div>
+    </div>
+  </div>
+</div>
+      </li>
+    </ul>
+  </div>
+</nav>
         
+<h1 class="text-center"> Our Attractions:</h1>
 
+<h3 class="text-center"> We said we have over 50 rides and attractions. We do, we have 51.</h3> 
+<ol>
 
+<li> Unicorn bumper cars</li>
 
+<img src="http://www.simpleimageresizer.com/_uploads/photos/92c79ef8/unicorn_20.jpg">
 
+<li> The Hulketh</li> 
+<img src="http://www.simpleimageresizer.com/_uploads/photos/92c79ef8/52e15e4cc3192a881118db45a5960ead_1_240x126.jpg">
 
+<li> BIGGIE CHEESE (Boombastic Bonanaza)</li> 
+<img src="http://www.simpleimageresizer.com/_uploads/photos/92c79ef8/biggiecheese_240x126.jpg">
 
+<li>Ferris Wheel</li> 
+<img src="http://www.simpleimageresizer.com/_uploads/photos/92c79ef8/ferris_240x126.jpg">
+
+<li>Log floome</li> 
+<img src="http://www.simpleimageresizer.com/_uploads/photos/92c79ef8/Log-Flume-Enchanted-Kingdom-Philippines-3_240x126.jpg">
+
+<li>Go Kart</li> 
+<li>Raton Locito</li> 
+<li>The Wible 2</li> 
+<li>---</li> 
+<li>DESPACITO DYVE</li> 
+<li>Normal Bumper Cars</li> 
+<li>The Caterpilar</li> 
+<li>The Mumy</li> 
+<li>Wunder Woman</li> 
+<li>Shell Shockerz</li> 
+<li>The Jupitor</li> 
+<li>The Caroosel</li> 
+<li>Duble Shot</li> 
+<li>Haunted Maws</li> 
+<li>Honted Mansion</li> 
+<!--^#20^-->
+<li>Fweefaw</li> 
+<li>Slyde</li> 
+<li>not kamikazee</li>
+<li>---</li> 
+<li>Piracy Ship</li> 
+<li>Reverse Bongee</li> 
+<li>---</li> 
+<li>Li'l Kid Train Ryde</li> 
+<li>---</li> 
+<li>G u c c i Teacups</li> 
+<li>NORMAL Teacups (For da Kiddies)</li> 
+<li>Celebrity Chuteout</li> 
+<li>R-cade</li>    
+<li>Dragon Ryde</li>
+<li>Vykin Shipo</li>
+<li>Montaña Rusaaaaaaaaaaaaaaaaaaaaaaaaa </li>                                                                                                                                                                                                                                                                   
+<li>Gravitee Ryde</li>
+<li>Pendulom Ryde</li>
+<li>Li'l Kid Bumper Carz</li>
+<li>Waoter Ballz</li>
+<li>Waoter Ryde</li>
+<li>Bloon Rase</li>
+<li>Falkon Ryde</li>
+<li>Bumpr Boatz</li>
+<li>Bumpr Boatz (4 them kiddies)</li>
+<li>De Ville's Wheel</li>
+<li>Syklone</li>
+<li>Scy screeEEEEEEEEEEEEEEEEM</li>
+<li>El Toro</li>
+<li>---</li>
+<li>Pyrate Plunderin'</li>
+
+</div>
+</ol>
+<!---->
+
+<div class= "float-right"> 
+<img src= "http://www.hussrides.com/sites/default/files/header_images/classic-rides-pirate-ship1_1.jpg">
 </body>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
-    <script src="#"></script>
+
+    <script src="index.js"></script> 
 
     </html> 

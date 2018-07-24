@@ -1,0 +1,14 @@
+/* Css Bois */
+.font {
+    font-size:23px;
+    font: "Gaegu";
+  
+}
+.color{
+    font-size: 40px
+}
+
+body {
+    background-color:rgb(34, 0, 61);
+    color:white;
+}
