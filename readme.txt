@@ -27,10 +27,11 @@ made the home page carousel,
 resized most images,
 added templates for navbar,
 added templates for bootsrap 4,
-helped a little bit with cards,
-helped a little bit with about us,
+helped with cards,
+helped with about us,
 found some images,
-helped center headers and did most margins 
+helped center headers and did most margins,
+helped with some of descriptions for attractions
 <!-- ??? why is there so many random things that didnt happen in Shane's section -->
 
 

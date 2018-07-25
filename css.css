@@ -12,3 +12,17 @@ body {
     background-color:rgb(34, 0, 61);
     color:white;
 }
+
+.col-sm-4{
+    width:20% !important;
+    margin:0 !important;
+    padding:0 !important;
+}
+.card-text{
+    color: black;
+}
+.card-title{
+
+    color:black;
+
+}
