@@ -1,5 +1,5 @@
- 
- REEEEad me  
+Fluffaduffs readme.txt 
+
 
 
 Shane:
@@ -13,34 +13,42 @@ Shane:
 -Questioned if certain things were necessary because WHY DID IT NEED A FIREWORKS GALLERY PAGE? SERIOUSLY ( side note from Ahmet: bc why not and also it appeals the customer with them pretty pics)
 -Was the general host for the project
 -Put too many random things under his name in the ReadMe file ( another side note: that's true.)
+-DID THE FREAKING JAVASCRIPT LIKE HOLY FRICK 
 
 
 Hannah:
-Did the 'Dining' page
-Did the 'noRealBuy' page
-Organized scripts and meta tags, essentials and basic layouts for the pages
-helped ahmet with the attraction names as well as descriptions for them
-helped shane with attraction cards 
-memes. 👌👌👌
+Did the 'Dining' page👌
+Did the 'noRealBuy' page👌
+Organized scripts and meta tags, essentials and basic layouts for the pages👌
+helped ahmet with the attraction names as well as descriptions for them👌
+helped shane with attraction cards 👌
+gucci teacups. 👌
+made the secret rick-rolls👌
+wasted.html 👌
+                                                        👌
 
-
-Connor:
+Connor: ...👌
 made the home page carousel,
 resized most images,
 added templates for navbar,
-added templates for bootsrap 4,
+added templates for bootstrap 4,
 helped with cards,
 helped with about us,
 found some images,
 helped center headers and did most margins,
-helped with some of descriptions for attractions
+helped with some of descriptions for attractions,
+made the footer,
+helped with direction page
 <!-- ??? why is there so many random things that didnt happen in Shane's section -->
 
 
 Ahmet:
-- Did almost all on the cards on the home page.
--Found most pictures
--Did almost all of the *About* page
+- Did almost all on the cards on the home page.👌
+-Found most pictures👌
+-Did some of the *About* page(wrote 2of the 3 paragraphs and found pic)👌
+-Did a lot of the attractions page.(Made up most names. Found several 0of the pics. Helped with the descriptions.)👌
+-Edited some thing👌
+-👌
 
-(To be honest, several of the things on Shane's readme part were something the entire group did)
-lmao ^^^^^
+(To be honest, several of the things on Shane's readme part were something the entire group did)👌
+

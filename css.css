@@ -2,7 +2,7 @@
 .font {
     font-size:23px;
     font: "Gaegu";
-  
+  margin: 50px;
 }
 .color{
     font-size: 40px
@@ -11,6 +11,7 @@
 body {
     background-color:rgb(34, 0, 61);
     color:white;
+    font-family: Merienda;
 }
 
 .col-sm-4{
@@ -25,4 +26,21 @@ body {
 
     color:black;
 
+}
+
+.us {
+    font-size: 60px;
+}
+
+.center{
+    text-align: center;
+}
+
+footer{
+background-color: rgb(52, 58, 64);
+
+}
+a .wows{
+color: rgb(55,55,55);
+text-decoration: none;
 }
