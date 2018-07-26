@@ -2,7 +2,7 @@ $(document).ready(function(){
     $("#that").keypress(calc, calc)
     $("#exampleModal").hover(calc, calc)
     $("#👌").hover(yeet, yeet)
-    $(".one").hover(oneOn, oneOff)
+    $(".submit").hover(on, off)
     });
 
 
@@ -82,21 +82,22 @@ $(document).ready(function(){
     }
 
 
-// henlo i exist 
+// henlo i exist REEEEEEEEEEEEEE
+
 
 function yeet(){
     $("#heh").animate({
         width: 'toggle'
     }, 500);
 }
+    function on(){
+        $(".submit").animate({
+borderRadius: "50%"
+        });
+    }
 
-function oneOn(){
-    $('.one').css({
-    "box-shadow": "0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)"
-    });
-}
-function oneOff(){
-    $('.one').css({
-    "box-shadow": "none"
-    });
-}
+    function off(){
+        $(".submit").animate({
+borderRadius: "2%"
+        });
+    }

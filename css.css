@@ -2,7 +2,8 @@
 .font {
     font-size:23px;
     font: "Gaegu";
-  margin: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .color{
     font-size: 40px
