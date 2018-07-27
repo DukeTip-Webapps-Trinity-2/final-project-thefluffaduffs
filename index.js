@@ -1,7 +1,9 @@
 $(document).ready(function(){
     $("#that").keypress(calc, calc)
+    $("#that").keyup(calc, calc)
+    $("#that").keydown(calc, calc)
     $("#exampleModal").hover(calc, calc)
-    $("#👌").hover(yeet, yeet)
+    $("#👌").hover(yeet, yeeet)
     $(".submit").hover(on, off)
     });
 
@@ -46,7 +48,7 @@ $(document).ready(function(){
     console.log(pic);
     pic = pic + ".png";
     console.log(pic);
-    $(".lit").append('<img src="img/b/' + pic + '">');
+    $(".lit").append('<img src="b/' + pic + '">');
 
     if(pic == "01d.png" || pic == "02d.png" || pic == "01n.png" || pic == "02n.png"){
         $(".comment").html("There are clear skies at the moment! Perfect weather for a visit!");
@@ -87,17 +89,22 @@ $(document).ready(function(){
 
 function yeet(){
     $("#heh").animate({
-        width: 'toggle'
+        width: '1%'
+    }, 500);
+}
+function yeeet(){
+    $("#heh").animate({
+        width: '100%'
     }, 500);
 }
     function on(){
         $(".submit").animate({
-borderRadius: "50%"
+borderRadius: "2%"
         });
     }
 
     function off(){
         $(".submit").animate({
-borderRadius: "2%"
+borderRadius: "50%"
         });
     }

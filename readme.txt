@@ -13,18 +13,18 @@ Shane:
 -Questioned if certain things were necessary because WHY DID IT NEED A FIREWORKS GALLERY PAGE? SERIOUSLY ( side note from Ahmet: bc why not and also it appeals the customer with them pretty pics)
 -Was the general host for the project
 -Put too many random things under his name in the ReadMe file ( another side note: that's true.)
--DID THE FREAKING JAVASCRIPT LIKE HOLY FRICK 
+-did a lot of JavaScript
 
 
 Hannah:
-Did the 'Dining' page👌
-Did the 'noRealBuy' page👌
-Organized scripts and meta tags, essentials and basic layouts for the pages👌
-helped ahmet with the attraction names as well as descriptions for them👌
-helped shane with attraction cards 👌
-gucci teacups. 👌
-made the secret rick-rolls👌
-wasted.html 👌
+Did the 'Dining' page
+Did the 'noRealBuy' page
+Organized scripts and meta tags, essentials and basic layouts for the pages
+helped ahmet with the attraction names as well as descriptions for them
+helped shane with attraction cards 
+gucci teacups. 
+made the secret rick-rolls
+wasted.html 
                                                         👌
 
 Connor: ...👌
@@ -46,8 +46,8 @@ Ahmet:
 - Did almost all on the cards on the home page.👌
 -Found most pictures👌
 -Did some of the *About* page(wrote 2of the 3 paragraphs and found pic)👌
--Did a lot of the attractions page.(Made up most names. Found several 0of the pics. Helped with the descriptions.)👌
--Edited some thing👌
+-Did a lot of the attractions page.(Made up most names. Found several of the pics. Helped with the descriptions.)👌
+-Edited some things👌
 -👌
 
 (To be honest, several of the things on Shane's readme part were something the entire group did)👌
