@@ -2,6 +2,7 @@ $(document).ready(function(){
     $("#that").keypress(calc, calc)
     $("#that").keyup(calc, calc)
     $("#that").keydown(calc, calc)
+    $("#that").click(calc, calc)
     $("#exampleModal").hover(calc, calc)
     $("#👌").hover(yeet, yeeet)
     $(".submit").hover(on, off)
@@ -12,6 +13,11 @@ function calc(){
 var T = 0;
 T = document.getElementById("that").value;
 console.log(T);
+if(T < 0 || T % 1 != 0){
+    $("#that").val("");
+T = 0
+$(".price").html(T)
+}
 T *= 25;
 $(".price").html(T)
 
